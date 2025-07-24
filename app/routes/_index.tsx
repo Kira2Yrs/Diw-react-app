@@ -55,7 +55,7 @@ export default function Index() {
 
 const resources = [
   {
-    href: "https://github.com/Kira2Yrs/Diw-react-app",
+    href: "http://localhost:5173/",
     text: "Lab01",
     icon: (
       <svg
@@ -97,7 +97,7 @@ const resources = [
     ),
   },
   {
-    href: "https://github.com/Kira2Yrs/Diw-react-app",
+    href: "http://localhost:5173/lab03",
     text: "Lab03",
     icon: (
       <svg
