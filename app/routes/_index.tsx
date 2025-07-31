@@ -117,7 +117,7 @@ const resources = [
     ),
   },
   {
-    href: "https://github.com/Kira2Yrs/Diw-react-app",
+    href: "http://localhost:5173/lab04",
     text: "Lab04",
     icon: (
       <svg
