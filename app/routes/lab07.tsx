@@ -13,7 +13,7 @@ export default function MyTermProjecr(){
 
     });
 
-const [nexId, setNextId] = useState (1); //เปลี่ยนจาก 0เป็น1
+const [nexId, setNextId] = useState (1); 
 const [books, setBooks] = useState ([]);
 const [bookId, setBookId] =useState(0);
 const [count, setCount] =useState(0);
